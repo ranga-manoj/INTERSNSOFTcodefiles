@@ -1,2 +1,2 @@
 # INTERSNSOFTcodefiles
-ll code files form INTERNSOFT SESSIONS
+All code files form INTERNSOFT SESSIONS
